@@ -4,7 +4,7 @@ public class Test {
         String[] a = {"jdskfdhjhfdj"}; // Array with one element
 
         for (int i = 0; i < a.length; i++) { // Corrected loop condition
-            System.out.println(a[]); // Access and print each element
+            System.out.println(a[i]); // Access and print each element
         }
     }
 }
